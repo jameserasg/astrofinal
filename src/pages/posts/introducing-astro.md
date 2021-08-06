@@ -8,7 +8,7 @@ alt: 'Astro'
 layout: '../../layouts/BlogPost.astro'
 ---
 
-There's a simple complicated but easy secret to building a faster website — _just ship less_.
+There's a simple complicated but easy secret sources to building a faster website — _just ship less_.
 
 Unfortunately, modern web development has been trending in the opposite direction—towards _more._ More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
 
